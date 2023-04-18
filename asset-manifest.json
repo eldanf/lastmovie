@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lastmovie/static/css/main.fbc21e5b.css",
+    "main.js": "/lastmovie/static/js/main.38a5ce79.js",
+    "static/media/ana.png": "/lastmovie/static/media/ana.43cd499fb4845abe31fd.png",
+    "index.html": "/lastmovie/index.html",
+    "main.fbc21e5b.css.map": "/lastmovie/static/css/main.fbc21e5b.css.map",
+    "main.38a5ce79.js.map": "/lastmovie/static/js/main.38a5ce79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc21e5b.css",
+    "static/js/main.38a5ce79.js"
+  ]
+}
